@@ -16,7 +16,9 @@ ButtonLink: "/events/"
 
 ## Welcome to the QGIS Algeria User Group
 
-We are a community of QGIS users across Algeria, passionate about open-source geospatial technology. Our mission is to create a shared space for QGIS users in Algeria — to promote the use of QGIS, share knowledge, organize events, and grow Algeria's involvement in the global QGIS ecosystem.
+We are a community of QGIS users across Algeria, passionate about open-source geospatial technology. We are more than a software user group: we aim to create a collaborative space for students, researchers, professionals, and enthusiasts interested in open-source GIS, mapping, remote sensing, and geospatial technologies.
+
+Communities are built as much through human connections as through technical knowledge. Our mission is to create a shared space for QGIS users in Algeria — to promote the use of QGIS, share knowledge, organize events, and grow Algeria's involvement in the global QGIS ecosystem.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-one-third left-title">}}
@@ -74,10 +76,12 @@ Whether you're a beginner or an experienced QGIS user, everyone in Algeria is we
 
 Join the conversation and stay up to date:
 
+- **Signal group:** [Join our Signal community](https://signal.group/#CjQKIItUVd4_-dUfwkOYAFJEO709onuUJOLlggkEzsGoLH5zEhARq-YrxXnmk9IMDTNiyohi)
+- **LinkedIn:** [Walid Moulahoum](https://www.linkedin.com/in/walidmoulahoum/)
 - **Mailing list:** [add Google Groups / mailing list link]
-- **Chat group:** [add Telegram / Matrix link]
-- **LinkedIn:** [add LinkedIn group link]
 - **YouTube:** [add YouTube channel link]
+
+Questions? Reach out to our coordinator, **Walid Moulahoum**.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

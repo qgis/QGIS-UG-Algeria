@@ -26,9 +26,9 @@ Our mission is to:
 
 ### Coordinators / Leadership
 
-- **Coordinator:** [Name]
+- **Coordinator:** Walid Moulahoum ([LinkedIn](https://www.linkedin.com/in/walidmoulahoum/))
 - **Regional/Local Leads:** [Names by region]
-- **Volunteers:** [Roles: outreach, events, training, comms]
+- **Volunteers:** A growing team of contributors helping with outreach, events, training, and communications
 
 ### Active Members
 
@@ -50,10 +50,11 @@ We welcome everyone in Algeria interested in QGIS, from complete beginners to ex
 
 ## Contact Us
 
+- **Coordinator:** Walid Moulahoum ([LinkedIn](https://www.linkedin.com/in/walidmoulahoum/))
+- **Signal group:** [Join our Signal community](https://signal.group/#CjQKIItUVd4_-dUfwkOYAFJEO709onuUJOLlggkEzsGoLH5zEhARq-YrxXnmk9IMDTNiyohi)
 - **Email:** [your-email@example.com]
 - **Mailing List:** [link to mailing list]
 - **Social Media:** [links to social media]
-- **Chat:** [link to chat platform if available]
 
 ## Affiliations
 

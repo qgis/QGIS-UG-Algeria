@@ -63,8 +63,8 @@ To ensure a welcoming and productive environment for all members, we ask everyon
 ### Reporting Issues
 
 If you experience or witness behavior that violates these guidelines:
-1. Contact any board member or organizer
-2. Send an email to [conduct@example.com]
+1. Contact our coordinator, Walid Moulahoum ([LinkedIn](https://www.linkedin.com/in/walidmoulahoum/)), or any organizer
+2. Reach out via our [Signal group](https://signal.group/#CjQKIItUVd4_-dUfwkOYAFJEO709onuUJOLlggkEzsGoLH5zEhARq-YrxXnmk9IMDTNiyohi) or email [conduct@example.com]
 3. All reports will be handled confidentially
 
 ### Consequences
@@ -98,6 +98,6 @@ These rules may be updated from time to time. Members will be notified of signif
 
 ## Questions?
 
-If you have questions about these rules, contact us at [contact@example.com]
+If you have questions about these rules, contact our coordinator, Walid Moulahoum ([LinkedIn](https://www.linkedin.com/in/walidmoulahoum/)), or join our [Signal group](https://signal.group/#CjQKIItUVd4_-dUfwkOYAFJEO709onuUJOLlggkEzsGoLH5zEhARq-YrxXnmk9IMDTNiyohi).
 
 {{< content-end >}}

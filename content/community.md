@@ -63,8 +63,9 @@ Discover companies, contributors, and products supporting QGIS in Algeria.
 
 ### How to Join
 
+- Join our chat: [Signal group](https://signal.group/#CjQKIItUVd4_-dUfwkOYAFJEO709onuUJOLlggkEzsGoLH5zEhARq-YrxXnmk9IMDTNiyohi)
+- Contact our coordinator: Walid Moulahoum ([LinkedIn](https://www.linkedin.com/in/walidmoulahoum/))
 - Email: [community@example.com]
-- Join our chat: [link]
 - Follow updates: [social links]
 
 {{< rich-content-end >}}

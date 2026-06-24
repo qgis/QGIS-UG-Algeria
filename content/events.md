@@ -76,14 +76,16 @@ Check back regularly for upcoming workshop announcements.
 
 ## Past Events
 
-[Add information about past events, presentations, or links to recordings]
+- **Community gathering in Béjaïa** — An outdoor meet-up combining community building with hiking and a visit to a local waterfall, bringing members together beyond the screen.
+- **Session with Hans van der Kwast** — An online talk on how the global QGIS community operates and how to get involved.
+- **Volunteer & sustainability meet-up** — A gathering focused on volunteer contributions and keeping the community thriving, with members travelling long distances simply to learn and contribute.
 
 
 {{< rich-box-start icon="💁" layoutClass="tips">}}
 {{< rich-content-start themeClass="coloring-1" >}}
 ##### Get Involved
 
-Want to present at our next meetup or organize an event? Contact us at [your-contact-email]
+Want to present at our next meetup or organize an event? Join our [Signal group](https://signal.group/#CjQKIItUVd4_-dUfwkOYAFJEO709onuUJOLlggkEzsGoLH5zEhARq-YrxXnmk9IMDTNiyohi) or reach out to our coordinator, Walid Moulahoum, on [LinkedIn](https://www.linkedin.com/in/walidmoulahoum/).
 
 
 {{< rich-content-end >}}
