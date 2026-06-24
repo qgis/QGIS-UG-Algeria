@@ -11,12 +11,12 @@ url: "/about-us/"
 
 # About Us
 
-We are a QGIS User Group, committed to promoting open-source geospatial technology and supporting practitioners.
+We are the QGIS Algeria User Group, committed to promoting open-source geospatial technology and supporting practitioners across Algeria.
 
 ## Our Mission
 
 Our mission is to:
-- Foster collaboration among QGIS users
+- Foster collaboration among QGIS users in Algeria
 - Promote knowledge sharing and best practices
 - Support the growth of open-source GIS
 - Contribute to the global QGIS community
@@ -42,7 +42,7 @@ We have members from diverse backgrounds including:
 
 ## Our Community
 
-We welcome everyone interested in QGIS, from complete beginners to experienced professionals. Our community values:
+We welcome everyone in Algeria interested in QGIS, from complete beginners to experienced professionals. Our community values:
 - **Openness:** We embrace open-source principles and open collaboration
 - **Inclusivity:** Everyone is welcome regardless of background or skill level
 - **Learning:** We support continuous learning and knowledge sharing
@@ -57,6 +57,6 @@ We welcome everyone interested in QGIS, from complete beginners to experienced p
 
 ## Affiliations
 
-We are an official QGIS User Group recognized by the [QGIS Project](https://qgis.org). Learn more about QGIS User Groups [here](https://qgis.org/community/groups/).
+We are an official QGIS User Group for Algeria, recognized by the [QGIS Project](https://qgis.org). Learn more about QGIS User Groups [here](https://qgis.org/community/groups/).
 
 {{< content-end >}}

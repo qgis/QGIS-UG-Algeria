@@ -10,7 +10,7 @@ sidebar: true
 
 # Tutorials
 
-Practical QGIS tutorials, including local data, projections, and workflows.
+Practical QGIS tutorials, including Algerian data, local projections, and workflows.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-full">}}

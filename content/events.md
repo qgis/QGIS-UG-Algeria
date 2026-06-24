@@ -10,22 +10,22 @@ sidebar: true
 
 # Events
 
-Stay updated with our upcoming meetups, workshops, and conferences. Join us to learn, share, and network with fellow QGIS enthusiasts.
+Stay updated with our upcoming meetups, workshops, and conferences across Algeria. Join us to learn, share, and network with fellow QGIS enthusiasts.
 
 ## Upcoming Events
 
 {{< rich-box-start layoutClass="has-right rounded" >}}
 {{< rich-content-start themeClass="coloring-2" >}}
-### QGIS User Group Meetup (Placeholder)
+### QGIS Algeria Meetup (Placeholder)
 
 When: [Date]  
 Where: [City / Online]
 
-{{< button class = "is-primary1" link = "https://usergroup.qgis.org/" text = "Learn more" >}} 
+{{< button class = "is-primary1" link = "https://dz.qgis.org/" text = "Learn more" >}} 
 
 {{< rich-content-end >}}
 {{< rich-right-start >}}
-![](https://usergroup.qgis.org/visualization_center.webp)
+![](https://dz.qgis.org/visualization_center.webp)
 {{< rich-right-end >}}
 {{< rich-box-end >}}
 

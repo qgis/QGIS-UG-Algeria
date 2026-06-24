@@ -1,11 +1,13 @@
-# 🌐 QGIS User Group Website Template
+# 🌐 QGIS Algeria User Group Website
 
-> ## 👋 Welcome to the QGIS User Group Website Template!
+> ## 👋 Welcome to the QGIS Algeria User Group Website!
 >
-> **This repository provides a template for creating QGIS User Group websites:**  
-> 🌍 Hosted as subdomains of qgis.org (e.g., `yourgroup.qgis.org`)
+> **This repository hosts the website for the QGIS Algeria User Group:**  
+> 🌍 Published at [dz.qgis.org](https://dz.qgis.org/) (alias: algeria.qgis.org)
 >
-> Here you'll find everything you need to **build, develop, and customize** your User Group Website.
+> Here you'll find everything you need to **build, develop, and customize** the site.
+>
+> This site is built from the [QGIS User Group Website template](https://github.com/qgis/QGIS-User-Group-Website).
 
 ![-----------------------------------------------------](./img/green-gradient.png)
 
@@ -53,8 +55,8 @@ The template uses Hugo static site generator with a clean, responsive design tha
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/QGIS/QGIS-User-Group-Website.git
-   cd QGIS-User-Group-Website
+   git clone https://github.com/qgis/QGIS-UG-Algeria.git
+   cd QGIS-UG-Algeria
    ```
 
 2. **Run the development server:**
@@ -78,7 +80,7 @@ The template uses Hugo static site generator with a clean, responsive design tha
 To set up a website for your QGIS User Group:
 
 1. **Contact the QGIS Website Team:**
-   - Open an issue in [this repository](https://github.com/qgis/QGIS-User-Group-Website/issues) or
+   - Open an issue in [this repository](https://github.com/qgis/QGIS-UG-Algeria/issues) or
    - Email the QGIS website team at [tim@kartoza.com](mailto:tim@kartoza.com) and [lova@kartoza.com](mailto:lova@kartoza.com)
    - Specify your user group name and preferred subdomain (e.g., `sweden.qgis.org`)
 
@@ -103,8 +105,8 @@ Once your branch is ready:
 
 1. **Clone and checkout your branch:**
    ```bash
-   git clone https://github.com/qgis/QGIS-User-Group-Website.git
-   cd QGIS-User-Group-Website
+   git clone https://github.com/qgis/QGIS-UG-Algeria.git
+   cd QGIS-UG-Algeria
    git checkout usergroup/your-group-name
    ```
 
@@ -152,7 +154,7 @@ You have full control over your branch:
 ## 📂 Folder Structure
 
 ```plaintext
-QGIS-User-Group-Website/
+QGIS-UG-Algeria/
   ├── ⚙️  config/           # Hugo configuration files
   ├── 📄  content/          # Markdown content files (pages, posts)
   ├── 🖼️  img/              # Images files used by this README
@@ -203,8 +205,8 @@ Edit the `themes/qgis-website-theme/layouts/partials/menu.html` file to customiz
 
 - `logo-icon`: The logo on the main navigation menu (by default: QGIS logo)
 - `logo-link`: The link where the logo points to (by default: qgis.org). You can set it to `/` if you want to point the logo the homepage of your user group website.
-- `second-menu-prefix`: The link of this user group website (eg. https://sweden.qgis.org)
-- `secondary-menu-config`: The link to the `navigation.json` used for the mobile menu (See below). For example: https://raw.githubusercontent.com/qgis/QGIS-User-Group-Website/usergroup_switzerland/static/config/navigation.json
+- `second-menu-prefix`: The link of this user group website (eg. https://dz.qgis.org)
+- `secondary-menu-config`: The link to the `navigation.json` used for the mobile menu (See below). For example: https://raw.githubusercontent.com/qgis/QGIS-UG-Algeria/main/static/config/navigation.json
 
 Edit the `static/config/navigation.json` file to customize the secondary menu on mobile. This file should be updated whenever you modify your menu entries.
 
@@ -263,7 +265,7 @@ Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 - [Tim Sutton](https://github.com/timlinux) – Original QGIS Website author
 - [Lova Andriarimalala](https://github.com/Xpirix) – Template developer
-- [QGIS Contributors](https://github.com/qgis/GIS-User-Group-Website/graphs/contributors) – Community contributors
+- [QGIS Contributors](https://github.com/qgis/QGIS-UG-Algeria/graphs/contributors) – Community contributors
 
 ![-----------------------------------------------------](./img/green-gradient.png)
 

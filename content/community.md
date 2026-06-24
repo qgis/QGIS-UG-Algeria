@@ -8,9 +8,9 @@ sidebar: true
 
 {{< content-start >}}
 
-# QGIS User Group Ecosystem
+# QGIS Algeria Ecosystem
 
-Discover companies, contributors, and products supporting QGIS.
+Discover companies, contributors, and products supporting QGIS in Algeria.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-half">}}

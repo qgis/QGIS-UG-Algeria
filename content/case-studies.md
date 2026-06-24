@@ -10,7 +10,7 @@ sidebar: true
 
 # Case Studies
 
-Showcasing projects, implementations, and impact stories from the QGIS community.
+Showcasing projects, implementations, and impact stories from the QGIS community in Algeria.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-full">}}
