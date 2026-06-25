@@ -17,9 +17,8 @@ Practical QGIS tutorials, including Algerian data, local projections, and workfl
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-- [Tutorial title] — [1–2 line summary of the tutorial and link]
-- [Tutorial title] — [1–2 line summary of the tutorial and link]
-- [Tutorial title] — [1–2 line summary of the tutorial and link]
+- Introduction to Geographic Information Systems with QGIS — [AR](https://courses.gisopencourseware.org/course/view.php?id=83), [FR](https://courses.gisopencourseware.org/course/view.php?id=81)
+- QGIS for Hydrological Applications — [AR](https://courses.gisopencourseware.org/course/view.php?id=84), [FR](https://courses.gisopencourseware.org/course/view.php?id=25)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
