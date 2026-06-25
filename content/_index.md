@@ -79,7 +79,7 @@ Join the conversation and stay up to date:
 - **Signal group:** [Join our Signal community](https://signal.group/#CjQKIItUVd4_-dUfwkOYAFJEO709onuUJOLlggkEzsGoLH5zEhARq-YrxXnmk9IMDTNiyohi)
 - **LinkedIn:** [QGIS User Group Algeria](https://www.linkedin.com/groups/9890355/)
 
-Questions? Reach out to our coordinator, **Walid Moulahoum**.
+Questions? Send an e-mail to qgis.usergroup.dz@gmail.com
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
