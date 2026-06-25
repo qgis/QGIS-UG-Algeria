@@ -12,6 +12,7 @@ url: "/about-us/"
 # About Us
 
 We are the QGIS Algeria User Group, committed to promoting open-source geospatial technology and supporting practitioners across Algeria.
+<img src="../img/group_picture.jpeg" alt="QGIS Algeria User Group">
 
 ## Our Mission
 
