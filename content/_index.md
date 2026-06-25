@@ -4,7 +4,7 @@ title: "QGIS Algeria User Group"
 subtitle: "Connecting QGIS users across Algeria"
 draft: false
 heroSize: "is-medium"
-heroLogo: "img/large-logo.svg"
+heroLogo: "img/QGIS_DZ.svg"
 HeroImage: "img/hegobg1.webp"
 HasBanner: true
 sidebar: true
@@ -77,9 +77,7 @@ Whether you're a beginner or an experienced QGIS user, everyone in Algeria is we
 Join the conversation and stay up to date:
 
 - **Signal group:** [Join our Signal community](https://signal.group/#CjQKIItUVd4_-dUfwkOYAFJEO709onuUJOLlggkEzsGoLH5zEhARq-YrxXnmk9IMDTNiyohi)
-- **LinkedIn:** [Walid Moulahoum](https://www.linkedin.com/in/walidmoulahoum/)
-- **Mailing list:** [add Google Groups / mailing list link]
-- **YouTube:** [add YouTube channel link]
+- **LinkedIn:** [QGIS User Group Algeria](https://www.linkedin.com/groups/9890355/)
 
 Questions? Reach out to our coordinator, **Walid Moulahoum**.
 
