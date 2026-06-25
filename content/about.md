@@ -24,10 +24,14 @@ Our mission is to:
 
 ## Our Team
 
-### Coordinators / Leadership
+### Board
 
-- **Coordinator:** Walid Moulahoum ([LinkedIn](https://www.linkedin.com/in/walidmoulahoum/))
-- **Regional/Local Leads:** [Names by region]
+- **Chair:** Zoubida Nemer ([LinkedIn](https://www.linkedin.com/in/zoubida-nemer/))
+- **Vice-Chair:** Walid Moulahoum ([LinkedIn](https://www.linkedin.com/in/walidmoulahoum/))
+- **Secretary:** Celia Hadj ([LinkedIn](https://www.linkedin.com/in/c%C3%A9lia-hadj-ali-b37bb7151/))
+- **Treasurer:** Issaad Mouloud ([LinkedIn](https://www.linkedin.com/in/mouloud-issaad-71817135/))
+- **Communications:** Walid Chaib ([LinkedIn](https://www.linkedin.com/in/walid-chaib-21aa59bb/))
+- **Technical and Partnership Lead:** Mebarek Mehdaoui ([LinkedIn](https://www.linkedin.com/in/mebarek-mehdaoui-219868397/))
 - **Volunteers:** A growing team of contributors helping with outreach, events, training, and communications
 
 ### Active Members
@@ -50,11 +54,9 @@ We welcome everyone in Algeria interested in QGIS, from complete beginners to ex
 
 ## Contact Us
 
-- **Coordinator:** Walid Moulahoum ([LinkedIn](https://www.linkedin.com/in/walidmoulahoum/))
 - **Signal group:** [Join our Signal community](https://signal.group/#CjQKIItUVd4_-dUfwkOYAFJEO709onuUJOLlggkEzsGoLH5zEhARq-YrxXnmk9IMDTNiyohi)
-- **Email:** [your-email@example.com]
-- **Mailing List:** [link to mailing list]
-- **Social Media:** [links to social media]
+- **Email:** qgis.usergroup.dz@gmail.com
+- **Social Media:** [LinkedIn](https://www.linkedin.com/groups/9890355/)
 
 ## Affiliations
 
