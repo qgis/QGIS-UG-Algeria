@@ -29,7 +29,7 @@ Practical QGIS tutorials, including Algerian data, local projections, and workfl
 {{< rich-content-start themeClass="coloring-1" >}}
 ##### Contribute a Tutorial
 
-Send tutorials or links to [tutorials@example.com].
+Send tutorials or links to qgis.usergroup.dz@gmail.com. You can also contact us to volunteer for translating courses to Arabic or French.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
