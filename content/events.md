@@ -85,7 +85,7 @@ Check back regularly for upcoming workshop announcements.
 {{< rich-content-start themeClass="coloring-1" >}}
 ##### Get Involved
 
-Want to present at our next meetup or organize an event? Join our [Signal group](https://signal.group/#CjQKIItUVd4_-dUfwkOYAFJEO709onuUJOLlggkEzsGoLH5zEhARq-YrxXnmk9IMDTNiyohi) or reach out to our coordinator, Walid Moulahoum, on [LinkedIn](https://www.linkedin.com/in/walidmoulahoum/).
+Want to present at our next meetup or organize an event? Join our [Signal group](https://signal.group/#CjQKIItUVd4_-dUfwkOYAFJEO709onuUJOLlggkEzsGoLH5zEhARq-YrxXnmk9IMDTNiyohi), [LinkedIn](https://www.linkedin.com/groups/9890355/) or e-mail: qgis.usergroup.dz@gmail.com.
 
 
 {{< rich-content-end >}}
