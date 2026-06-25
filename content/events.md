@@ -16,10 +16,10 @@ Stay updated with our upcoming meetups, workshops, and conferences across Algeri
 
 {{< rich-box-start layoutClass="has-right rounded" >}}
 {{< rich-content-start themeClass="coloring-2" >}}
-### QGIS Algeria Meetup (Placeholder)
+### QGIS Open Day Session: Meet the QGIS Algeria User Group
 
-When: [Date]  
-Where: [City / Online]
+When: 26 June 2026 
+Where: [Online](https://github.com/qgis/QGIS/wiki/QOD-June-2026)
 
 {{< button class = "is-primary1" link = "https://dz.qgis.org/" text = "Learn more" >}} 
 
@@ -77,7 +77,7 @@ Check back regularly for upcoming workshop announcements.
 ## Past Events
 
 - **Community gathering in Béjaïa** — An outdoor meet-up combining community building with hiking and a visit to a local waterfall, bringing members together beyond the screen.
-- **Session with Hans van der Kwast** — An online talk on how the global QGIS community operates and how to get involved.
+- **Session with Hans van der Kwast** — An talk on how the global QGIS community operates and how to get involved.
 - **Volunteer & sustainability meet-up** — A gathering focused on volunteer contributions and keeping the community thriving, with members travelling long distances simply to learn and contribute.
 
 
