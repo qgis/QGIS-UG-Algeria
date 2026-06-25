@@ -4,7 +4,7 @@ title: "QGIS Algeria User Group"
 subtitle: "Connecting QGIS users across Algeria"
 draft: false
 heroSize: "is-medium"
-heroLogo: "img/QGIS_DZ.svg"
+heroLogo: "img/large-logo.svg"
 HeroImage: "img/hegobg1.webp"
 HasBanner: true
 sidebar: true
