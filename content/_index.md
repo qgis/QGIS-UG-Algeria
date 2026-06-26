@@ -14,9 +14,9 @@ ButtonLink: "/events/"
 
 {{< content-start >}}
 
-<img src="../img/banner.jpeg" alt="QGIS Algeria User Group banner">
-
 ## Welcome to the QGIS Algeria User Group
+
+<img src="../img/banner.jpeg" alt="QGIS Algeria User Group banner">
 
 We are a community of QGIS users across Algeria, passionate about open-source geospatial technology. We are more than a software user group: we aim to create a collaborative space for students, researchers, professionals, and enthusiasts interested in open-source GIS, mapping, remote sensing, and geospatial technologies.
 
