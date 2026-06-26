@@ -76,9 +76,10 @@ Check back regularly for upcoming workshop announcements.
 
 ## Past Events
 
-- **Community gathering in Béjaïa** — An outdoor meet-up combining community building with hiking and a visit to a local waterfall, bringing members together beyond the screen.
-- **Session with Hans van der Kwast** — An talk on how the global QGIS community operates and how to get involved.
+- **Community gathering in Béjaïa** — An outdoor meet-up combining community building with hiking and a visit to a local waterfall, bringing members together beyond the screen. [LinkedIn](https://www.linkedin.com/feed/update/urn:li:groupPost:9890355-7472680858747916288?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAEgihQBmDjN96rmPpRVAFSNQSTlM6K3yCg)
+- **Session with Hans van der Kwast** — An talk on how the global QGIS community operates and how to get involved. [LinkedIn](https://www.linkedin.com/feed/update/urn:li:groupPost:9890355-7472680858747916288?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAEgihQBmDjN96rmPpRVAFSNQSTlM6K3yCg)
 - **Volunteer & sustainability meet-up** — A gathering focused on volunteer contributions and keeping the community thriving, with members travelling long distances simply to learn and contribute.
+- **World Water Day** — As part of the World Water Day celebration at the University of Ouargla, organized by the Faculty of Hydrocarbons, with the presence of the Director and prominent members of CRAAG, the QGIS Algeria User Group had the opportunity to contribute to important discussions on water resources management and digital transformation. [LinkedIn](https://www.linkedin.com/feed/update/urn:li:groupPost:9890355-7453165481160687616?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAEgihQBmDjN96rmPpRVAFSNQSTlM6K3yCg)
 
 
 {{< rich-box-start icon="💁" layoutClass="tips">}}
