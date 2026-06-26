@@ -17,9 +17,8 @@ Showcasing projects, implementations, and impact stories from the QGIS community
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-- **[Project title]** — [1–2 line summary of the outcome and location]
-- **[Project title]** — [1–2 line summary of the outcome and location]
-- **[Project title]** — [1–2 line summary of the outcome and location]
+- **QGIS in Mineral Exploration** — [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7458772992240754689?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAEgihQBmDjN96rmPpRVAFSNQSTlM6K3yCg)
+- **From raw drill data to geological insight: Qz-W-Sn veins case (Hoggar)** — [LinkedIn](https://www.linkedin.com/feed/update/urn:li:groupPost:9890355-7456063404022095872?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAEgihQBmDjN96rmPpRVAFSNQSTlM6K3yCg)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
