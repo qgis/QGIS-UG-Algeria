@@ -3,7 +3,7 @@ type: "page"
 title: "Community"
 subtitle: "QGIS ecosystem"
 draft: true
-sidebar: true
+sidebar: false
 ---
 
 {{< content-start >}}
